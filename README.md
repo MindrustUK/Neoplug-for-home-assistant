@@ -9,17 +9,19 @@ For Hass.io:
 Install and configure SSH server from the "Add-on store". Once you have shell run the following:
 ```
 cd /config/
-mkdir -p custom_components/heatmiserneoplug/
-cd /config/custom_components/heatmiserneoplug/
-wget https://raw.githubusercontent.com/MindrustUK/Neoplug-for-home-assistant/master/switch.py
+mkdir custom_components
+cd /config/custom_components
+git clone https://github.com/MindrustUK/Neoplug-for-home-assistant
+mv Neoplug-for-home-assistant heatmiserneoplug
 ```
 
 For Manual / Custom installations:
 Change directory to config location then run the following:
 ```
-mkdir -p custom_components/heatmiserneoplug/
-cd custom_components/heatmiserneoplug/
-wget https://raw.githubusercontent.com/MindrustUK/Neoplug-for-home-assistant/master/switch.py
+mkdir custom_components
+cd /config/custom_components
+git clone https://github.com/MindrustUK/Neoplug-for-home-assistant
+mv Neoplug-for-home-assistant heatmiserneoplug
 ```
 For both above scenarios then complete configuration as follows:
 
