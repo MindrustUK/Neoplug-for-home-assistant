@@ -1,0 +1,8 @@
+{
+  "domain": "heatmiserneoplug",
+  "name": "Heatmiser Neo Plug",
+  "documentation": "https://github.com/MindrustUK/Neoplug-for-home-assistant",
+  "dependencies": [],
+  "codeowners": ["MindrustUK"],
+  "requirements": []
+}
