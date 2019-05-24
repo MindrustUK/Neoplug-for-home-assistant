@@ -1,0 +1,4 @@
+climate:
+  - platform: heatmiserneoplug
+    host: <Insert IP Address / Hostname>
+    port: 4242
