@@ -6,7 +6,7 @@
         "visit_repo": "https://github.com/MindrustUK/Neoplug-for-home-assistant/",
         "changelog": "https://github.com/MindrustUK/Neoplug-for-home-assistant/",
         "resources": [
-            "https://raw.githubusercontent.com/MindrustUK/Neoplug-for-home-assistant/master/__init__.py"
+            "https://raw.githubusercontent.com/MindrustUK/Neoplug-for-home-assistant/master/__init__.py",
             "https://raw.githubusercontent.com/MindrustUK/Neoplug-for-home-assistant/master/manifest.json"
         ]
     }
